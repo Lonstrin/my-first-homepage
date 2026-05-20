@@ -1,4 +1,4 @@
-export default function Home() {
+ export default function Home() {
   return (
     <main className="min-h-screen bg-gray-100 text-gray-800">
       
@@ -41,7 +41,7 @@ export default function Home() {
         </p>
 
         <button className="mt-8 bg-blue-600 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition">
-          contact ours:Origin77@outlook.com
+          CONTACT ME: Abigail.lonstrin@gmail.com
         </button>
       </section>
 

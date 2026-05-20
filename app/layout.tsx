@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WElcome to someone's scerets website",
-  description: "fool with me",
+  title: "Welcome to someone's scerets website",
+  description: "***************************************************************************************************Hidden:)",
 };
 
 export default function RootLayout({
