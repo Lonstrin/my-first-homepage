@@ -1,6 +1,6 @@
  export default function Home() {
   return (
-    <main className="min-h-screen bg-gray-100 text-gray-800">
+    <main className="min-h-screen bg-gray-900 text-gray-500">
       
       {/* Navigation Bar */}
       <nav className="bg-white shadow-md">
